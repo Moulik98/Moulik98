@@ -15,7 +15,7 @@ Hi, i'm Soumya Moulik, a passionate full stack web developer from india. My pass
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="248" />
   
 - 💼 any work? do reach, [email](mailto:soumyamoulik@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
